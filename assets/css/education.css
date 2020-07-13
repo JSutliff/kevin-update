@@ -1,0 +1,96 @@
+.hide-content {
+  display: none;
+}
+
+#img-0 {
+  margin-bottom: 100px;
+}
+
+.main-p {
+  margin-bottom: 100px;
+}
+
+#img-1 {
+  margin-bottom: 100px;
+}
+
+#img-2 {
+  margin-bottom: 100px;
+}
+
+#button-container button:hover {
+  cursor: pointer;
+}
+
+.black {
+  color: black;
+}
+
+#hurricane-video {
+  width: 100%;
+}
+
+@media only screen and (min-width: 770px) {
+  #button-container {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+  }
+
+  #education-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* width: 80%; */
+    width: 92%;
+    margin: 0 auto;
+    margin-top: -80px;
+  }
+
+  .education-btn {
+    width: 92%;
+    height: 100%;
+  }
+
+  #page-title {
+    margin-top: 50px;
+  }
+
+  #education-paragraph-0 {
+    width: 500px;
+  }
+
+  #education-paragraph-1 {
+    width: 500px;
+  }
+
+  #education-paragraph-2 {
+    width: 500px;
+  }
+
+  #education-paragraph-3 {
+    width: 500px;
+  }
+
+  .education-img {
+    width: 80%;
+  }
+
+  .main-p {
+    width: 80%;
+  }
+
+  #img-0 {
+    margin-top: 50px;
+    min-width: 250px;
+    width: 70%;
+  }
+
+  #img-1 {
+    margin-top: 50px;
+  }
+
+  #img-2 {
+    margin-top: 50px;
+  }
+
+}
