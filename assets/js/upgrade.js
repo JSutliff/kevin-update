@@ -28,8 +28,8 @@ var pages = {
     ],
     images: [
       "../Website images/Clip.JPG",
-      "../Website images/StrapFront.jpg",
-      "../Website images/ToeNailPhoto.jpg",
+      "../Website images/StrapFront.JPG",
+      "../Website images/ToeNailPhoto.JPG",
     ],
   },
   section6: {
