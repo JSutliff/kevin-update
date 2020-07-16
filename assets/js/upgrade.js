@@ -27,9 +27,9 @@ var pages = {
       "The most common types are clips pictured in the first photo or straps which are pictured in the second photo. If you are lacking these you most likely have toe nails which are basic and do not qualify for any discounts. See the third photo.",
     ],
     images: [
-      "../Website images/Clip.JPG",
-      "../Website images/StrapFront.JPG",
-      "../Website images/ToeNailPhoto.JPG",
+      "./assets/Website images/Clip.JPG",
+      "./assets/Website images/StrapFront.JPG",
+      "./assets/Website images/ToeNailPhoto.JPG",
     ],
   },
   section6: {
@@ -38,7 +38,10 @@ var pages = {
       "To meet Section 8, titled Secondary Water Resistance (SWR), your home must have a self adhering polymer modified bitumen roofing underlayment applied directly to the sheathing. This would involve replacing your roof (See Section 2 & 3).",
       "Another, yet less commonly utilized way to meet the SWR Section is by having a foam SWR applied as a secondary means to water intrusion. This involves spraying foam at the point where the truss meets the roof deck. This is not hard to do but takes some time and should be done by a licensed contractor.",
     ],
-    images: ["../Website images/SWR.JPG", "../Website images/FoamSeal.JPG"],
+    images: [
+      "./assets/Website images/SWR.JPG",
+      "./assets/Website images/FoamSeal.JPG",
+    ],
   },
   section7: {
     title: "Opening Protection",
@@ -48,8 +51,8 @@ var pages = {
       "Hurricane rated openings are usually installed by professional contractors. These opening protections must meet the requirements of the Miami-Dade County PA 201, 202 and 203, or Florida Building Code 201, 202 and 203, or ASTM 1886 and ASTM E 1996 (Missile Level C—9 lb). To know if your storm shutters meet these ratings you should have your receipts or contracts from the installers who put them on, or you can sometimes look on the windows to see the rating codes etched in them.",
     ],
     images: [
-      "../Website images/Shutter.jpg",
-      "../Website images/PlywoodShutter.JPG",
+      "./assets/Website images/Shutter.jpg",
+      "./assets/Website images/PlywoodShutter.JPG",
     ],
   },
   strengthening: {
@@ -59,9 +62,9 @@ var pages = {
       "Some homeowners with knowledge of construction and woodworking may even be able to do this themselves, although it is not recommended. Please contact myself, a licensed roofing contractor or general contractor to go into more detail about bracing gable ends. Here are some pictures of common types of gable end bracing.",
     ],
     images: [
-      "../Website images/XBracing.JPG",
-      "../Website images/Xbrace2.JPG",
-      "../Website images/Xbrace.JPG",
+      "./assets/Website images/XBracing.JPG",
+      "./assets/Website images/Xbrace2.JPG",
+      "./assets/Website images/Xbrace.JPG",
     ],
   },
 };
