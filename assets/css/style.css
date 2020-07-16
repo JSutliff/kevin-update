@@ -267,6 +267,7 @@ body {
   border: solid 1px black;
   border-radius: 10px;
   background-color: white;
+  box-shadow: 2px 8px 12px 1px rgba(86, 117, 116, 0.45);
 }
 .service-card i {
   font-size: 4rem;
@@ -459,6 +460,7 @@ footer p {
     border: none;
     border-radius: 10px;
     background-color: rgba(225, 243, 225, 0.85);
+    box-shadow: none;
   }
   .video-container {
     top: 53px;
