@@ -272,6 +272,10 @@ main img {
     border-radius: 10px;
   }
 
+  #mitigation-logo {
+    width: 200px;
+  }
+
   /* #benefits {
     display: flex;
     justify-content: center;
