@@ -48,7 +48,7 @@ var pages = {
       "Hurricane rated openings are usually installed by professional contractors. These opening protections must meet the requirements of the Miami-Dade County PA 201, 202 and 203, or Florida Building Code 201, 202 and 203, or ASTM 1886 and ASTM E 1996 (Missile Level C—9 lb). To know if your storm shutters meet these ratings you should have your receipts or contracts from the installers who put them on, or you can sometimes look on the windows to see the rating codes etched in them.",
     ],
     images: [
-      "../Website images/Shutter.JPG",
+      "../Website images/Shutter.jpg",
       "../Website images/PlywoodShutter.JPG",
     ],
   },
@@ -59,9 +59,9 @@ var pages = {
       "Some homeowners with knowledge of construction and woodworking may even be able to do this themselves, although it is not recommended. Please contact myself, a licensed roofing contractor or general contractor to go into more detail about bracing gable ends. Here are some pictures of common types of gable end bracing.",
     ],
     images: [
-      "../Website images/Xbracing.JPG",
+      "../Website images/XBracing.JPG",
       "../Website images/Xbrace2.JPG",
-      "../Website images/Xbrace.jpg",
+      "../Website images/Xbrace.JPG",
     ],
   },
 };
