@@ -60,7 +60,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  border: solid 1px #deaa28;
+  /* border: solid 1px #deaa28; */
 }
 .menu-wrap .hamburger > div {
   position: relative;
