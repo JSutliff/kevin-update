@@ -275,8 +275,10 @@ body {
 .service-card p {
   color: #deaa28;
   font-weight: 100;
-  margin-top: -25px;
-  text-decoration: underline;
+  margin-top: -20px;
+  /* text-decoration: underline; */
+  background-color: white;
+  border: solid 1px #deaa28;
 }
 .grow {
   transition: all 0.2s ease-in-out;
