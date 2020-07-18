@@ -272,6 +272,10 @@ body {
   color: #006400;
 }
 
+.service-card:active {
+  transform: translateY(4px);
+}
+
 .service-card p {
   color: #deaa28;
   font-weight: 100;
