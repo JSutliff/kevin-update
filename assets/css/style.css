@@ -282,6 +282,7 @@ body {
   margin-top: -20px;
   background-color: white;
   border: solid 1px rgba(160, 216, 214);
+  border-radius: 10px;
 }
 .grow {
   transition: all 0.2s ease-in-out;
