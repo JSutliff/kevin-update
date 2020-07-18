@@ -277,12 +277,11 @@ body {
 }
 
 .service-card p {
-  color: #deaa28;
-  font-weight: 100;
+  color: rgba(160, 216, 214);
+  font-weight: bold;
   margin-top: -20px;
-  /* text-decoration: underline; */
   background-color: white;
-  border: solid 1px #deaa28;
+  border: solid 1px rgba(160, 216, 214);
 }
 .grow {
   transition: all 0.2s ease-in-out;
