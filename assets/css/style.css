@@ -318,6 +318,7 @@ body {
 }
 iframe {
   margin-bottom: 6rem;
+  border-radius: 5px;
 }
 #contact {
   margin-top: 75px;
@@ -412,6 +413,7 @@ footer p {
 
 #contact iframe {
   width: 90%;
+  border-radius: 5px;
 }
 
 @media only screen and (min-width: 770px) {
