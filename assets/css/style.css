@@ -238,6 +238,10 @@ body {
   margin-top: -7.5rem;
 }
 
+#about a {
+  color: black;
+}
+
 .contact-number {
   color: #deaa28;
 }
@@ -406,6 +410,10 @@ footer p {
   z-index: 2;
 }
 
+#contact iframe {
+  width: 90%;
+}
+
 @media only screen and (min-width: 770px) {
   #cta:hover {
     background-color: #faa520;
@@ -474,6 +482,8 @@ footer p {
 
   .service-card p {
     display: none;
+    width: 40%;
+    margin: 0 auto;
   }
   .video-container {
     top: 53px;
