@@ -176,7 +176,8 @@ body {
   width: 100%;
   height: 87vh;
   overflow: hidden;
-  background: var(--primary-color) url(../images/video1.mp4) no-repeat center
+  background: var(--primary-color)
+    url(../images/home-inspection-clearwater-video.mov) no-repeat center
     center/cover;
 }
 .video-container video {
